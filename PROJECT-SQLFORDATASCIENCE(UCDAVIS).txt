@@ -1,3 +1,4 @@
+This is my final test of the SQL for Data Science Course of UCDAVIS, in the last part of this field you can found my final project that was about What is the most succesfull business in Las Vegas Cit, NV.
 
 This is a 2-part assignment. In the first part, you are asked a series of questions that will help you profile and understand the data just like a data scientist would. For this first part of the assignment, you will be assessed both on the correctness of your findings, as well as the code you used to arrive at your answer. You will be graded on how easy your code is to read, so remember to use proper formatting and comments where necessary.
 
