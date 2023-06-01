@@ -1,2 +1,2 @@
 # sql
-sql repository files
+sql projects
